@@ -5,3 +5,5 @@
 
 1. membuat file baru dan menambahkan judul "web pratikum"
 ![img](SS/ss1.png)
+2. membuat paragraf dan judul
+![img](SS/ss3.png) 
