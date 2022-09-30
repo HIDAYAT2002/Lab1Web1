@@ -9,3 +9,5 @@
 ![img](SS/ss3.png) 
 3. membuat format teks dengan tag "<mark>""<b>""<i>"
 ![img](SS/ss4.png)
+4. menambahkan gambar atau logo universitas pelita bangsa
+![img](SS/ss5.png)
