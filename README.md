@@ -7,3 +7,5 @@
 ![img](SS/ss1.png)
 2. membuat paragraf dan judul
 ![img](SS/ss3.png) 
+3. membuat format teks dengan tag "<mark>""<b>""<i>"
+![img](SS/ss4.png)
