@@ -11,3 +11,5 @@
 ![img](SS/ss4.png)
 4. menambahkan gambar atau logo universitas pelita bangsa
 ![img](SS/ss5.png)
+5. menambahkan Hyperlink/Halaman2
+![img](SS/ss6.png)
